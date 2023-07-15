@@ -49,6 +49,9 @@ const NavContent = ({ setMenuOpen }) => (
     <a href="mailto:rushirajchaudhari2003@gmail.com">
       <button>Email</button>
     </a>
+    <a href="https://rushirajresume.tiiny.site/">
+      <button>Resume</button>
+    </a>
   </>
 );
 

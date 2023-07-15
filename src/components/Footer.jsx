@@ -3,6 +3,7 @@ import {
   AiFillGithub,
   AiFillInstagram,
   AiFillYoutube,
+  AiFillLinkedin,
   AiOutlineArrowUp,
 } from "react-icons/ai";
 
@@ -31,6 +32,9 @@ const Footer = () => {
           </a>
           <a href="https://github.com/RushirajChaudhari" target={"blank"}>
             <AiFillGithub />
+          </a>
+          <a href="https://www.linkedin.com/in/rushiraj-chaudhari-a33419234" target={"blank"}>
+            <AiFillLinkedin/>
           </a>
         </article>
       </aside>

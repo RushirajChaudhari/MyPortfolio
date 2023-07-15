@@ -1,35 +1,74 @@
 {
   "projects": [
     {
-      "date": "Shhh....",
-      "title": "TECH Maze ",
+      "date": "React Js",
+      "title": "Tech Maze  ",
       "description": "This is the sample description about the project details. The more details are yet to come because i don't have anything to write",
       "url": "/",
       "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
     },
-
     {
-      "date": "Shhhh...",
-      "title": "Yet to come",
+      "date": "React Js",
+      "title": "Keep Your Notes",
       "description": "This is the sample description about the project details. The more details are yet to come because i don't have anything to write",
-      "url": "/",
-      "imgSrc": "https://w0.peakpx.com/wallpaper/76/762/HD-wallpaper-project-m-melee-super-smash-bros-thumbnail.jpg"
+      "url": "https://keepyournotes-8ee2d.web.app/",
+      "imgSrc": "data:image/jpeg;base64,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"
     },
     {
-      "date": "Null",
-      "title": "XCrypto",
+      "date": "React Js",
+      "title": "Phone Directory",
       "description": "This is the sample description about the project details. The more details are yet to come because i don't have anything to write",
-      "url": "/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      "url": "https://loginsignupapp-c1bb7.web.app/login",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZefoKCXEjC3tVRnmPclhI3orcirZ0NE1Q1Q&usqp=CAU"
     },
-
     {
-      "date": "Null",
-      "title": "PORTFOLIO",
+      "date": "React Js",
+      "title": "Netflix Clone",
+      "description": "This is the sample description about the project details. The more details are yet to come because i don't have anything to write",
+      "url": "https://netflix-clone-988c1.web.app/",
+      "imgSrc": "https://user-images.githubusercontent.com/61585443/185205338-c20bb089-618f-49e2-b740-1c02838030a4.png"
+    },
+    {
+      "date": "React Js",
+      "title": "React Cart",
+      "description": "This is the sample description about the project details. The more details are yet to come because i don't have anything to write",
+      "url": "https://react-cart-eosin.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "React Js Ecommerce",
+      "title": "Online Burger Ordering App",
+      "description": "This is the sample description about the project details. The more details are yet to come because i don't have anything to write",
+      "url": "https://burger-app-f04d4.web.app/",
+      "imgSrc": "https://i.ytimg.com/vi/F0ujC60wHwc/maxresdefault.jpg"
+    },
+    {
+      "date": "Django",
+      "title": "Office Management System",
+      "description": "This is the sample description about the project details. The more details are yet to come because i don't have anything to write",
+      "url": "https://github.com/RushirajChaudhari/Office_Management_System-Django",
+      "imgSrc": "https://i0.wp.com/juntrax.com/blog/wp-content/uploads/2020/10/office-management.jpg?resize=840%2C395&ssl=1"
+    },
+    {
+      "date": "Python",
+      "title": "Online Banking System",
+      "description": "This is the sample description about the project details. The more details are yet to come because i don't have anything to write",
+      "url": "https://github.com/RushirajChaudhari/Banking_System",
+      "imgSrc": "https://www.enterpriseedges.com/wp-content/uploads/2020/11/Electronic-Banking-System.jpg"
+    },
+    {
+      "date": "Python OpenCV",
+      "title": "Virtual Paint",
+      "description": "This is the sample description about the project details. The more details are yet to come because i don't have anything to write",
+      "url": "https://github.com/RushirajChaudhari/Virtual-Paint-OpenCV",
+      "imgSrc": "https://user-images.githubusercontent.com/121963927/253654118-1b522f13-2a2d-41da-ae5c-031d39ddd518.png"
+    },
+    {
+      "date": "React Js",
+      "title": "Portfolio",
       "description": "This is the sample description about the project details. The more details are yet to come because i don't have anything to write",
       "url": "/",
       "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
     }
-   
   ]
 }
